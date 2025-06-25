@@ -33,7 +33,7 @@ This project builds upon the foundational data loaded in Part 1, `23-15.csv`, wh
 
 ## 📊 Expanded Key Findings: Resale Dynamics in Skyline Tower
 
-The analysis within `skyline_tower_resale_analysis.ipynb` (specifically the resale section) reveals several intriguing patterns and provides concrete examples of property value changes and ownership shifts:
+The analysis within the notebook, specifically the resale section, reveals several intriguing patterns and provides concrete examples of property value changes and ownership shifts:
 
   * **Varied Resale Performance**: We observe a mix of outcomes in the secondary market. Some units demonstrate **price appreciation** over time, reflecting potential capital gains for sellers. Conversely, other units may show a decrease in sale price or relatively stable values, indicating market fluctuations or specific unit characteristics.
       * *Example of Appreciation:* Unit with aptno **1611** shows a sale from **$1,862,500 (2021-03-24)** to **$2,240,000 (2024-11-01)**, indicating a notable increase in value over approximately 43.9 months.
