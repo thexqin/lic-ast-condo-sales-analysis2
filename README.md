@@ -1,6 +1,6 @@
 # Long Island City & Astoria Condo Sales Analysis Part 2: Deep Dive into Skyline Tower Resales 🏙️📈
 
-Welcome to `lic_ast_condo_sales_analysis2`, the continuation of our in-depth exploration into the Long Island City (LIC) and Astoria condominium market. While our [original repository](https://github.com/thexqin/lic-ast-condo-sales-analysis) (link to your part 1 repo) provided a broad overview and initial insights into residential condo sales, with a primary focus on **Skyline Tower (23-15 44th Drive)**, this second installment takes a granular look at the fascinating world of **resales** within this iconic building.
+Welcome to `lic ast condo salesanalysis2`, the continuation of our in-depth exploration into the Long Island City (LIC) and Astoria condominium market. While our [original repository](https://github.com/thexqin/lic-ast-condo-sales-analysis) provided a broad overview and initial insights into residential condo sales, with a primary focus on **Skyline Tower (23-15 44th Drive)**, this second installment takes a granular look at the fascinating world of **resales** within this iconic building.
 
 In this repository, we move beyond initial sales to meticulously analyze how units in Skyline Tower perform on the secondary market. By examining publicly available real estate transaction data, enriching it with additional property details, and focusing specifically on units that have been sold multiple times, we uncover critical insights into:
 
