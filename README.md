@@ -76,7 +76,7 @@ To run this analysis, you'll need Python and a few common libraries.
     ```bash
     jupyter notebook
     ```
-2.  Navigate to and open the notebook for Part 2 (e.g., `skyline_tower_resale_analysis.ipynb`).
+2.  Navigate to and open the notebook for Part 2.
 3.  Run the cells sequentially to execute the analysis.
 
 ## 📂 Repository Structure
