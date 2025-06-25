@@ -42,7 +42,6 @@ The analysis within the notebook, specifically the resale section, reveals sever
   * **Influence of Corporate Ownership**: The frequent appearance of entities like **BGY CITYVIEW LLC**, **RISLAND NEW YORK LLC**, and **HOLDING 12 SUB LLC** as owners, particularly in earlier years (e.g., 2023, 2024 listings), suggests that a significant number of units were initially acquired by **corporate entities or developers**. These entities likely served as intermediaries, gradually selling units to individual owners.
       * This pattern is evident in cases like the unit currently owned by "ZENG, ZHILIN," where "BGY CITYVIEW LLC" and "HOLDING 12 SUB LLC" are listed as prior owners. This multi-step ownership transfer from corporate to individual buyers is a recurring theme.
   * **Dynamic Ownership Changes**: The `check(aptno)` function effectively traces the **ownership history** for each unit across different years (e.g., 2023, 2024, 2025, 2026). This provides a clear chain of title and helps in distinguishing between professional investors/developers and individual homeowners. The varying sale dates for duplicated apartment numbers directly confirm these ownership transfers.
-  * **Data Consistency**: The consistent `ZIP CODE`, `YEAR BUILT`, `housenum`, and `streetname` across multiple sales for the same `aptno` reinforce the reliability of our resale identification process.
 
 ### In-depth Look at Price Appreciation vs. Depreciation:
 
