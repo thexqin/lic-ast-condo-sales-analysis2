@@ -48,19 +48,19 @@ A closer examination of the individual resale transactions reveals that **price 
 
 **Units Demonstrating Appreciation:**
 
-  * **Aptno 161 (RUSSI, LUCEDY):** Experienced a significant increase from **$1,862,500 (2021-03-24)** to **$2,240,000 (2024-11-01)**, an appreciation of **$377,500** over approximately 3 years and 7 months.
+  * **Aptno 1611 (RUSSI, LUCEDY):** Experienced a significant increase from **$1,862,500 (2021-03-24)** to **$2,240,000 (2024-11-01)**, an appreciation of **$377,500** over approximately 3 years and 7 months.
   * **Aptno 907 (WONG, ADAM GAH JUIN):** Saw its value rise from **$929,255 (2022-07-14)** to **$1,100,000 (2025-05-12)**, an appreciation of **$170,745** over roughly 2 years and 10 months.
-  * **Aptno 20 (TANG, KEXIN):** Increased from **$1,645,135 (2023-01-04)** to **$1,817,300 (2024-10-23)**, gaining **$172,165** in approximately 1 year and 9 months.
-  * **Aptno 21 (LEE, CHEONG WAI):** Appreciated from **$995,426 (2021-09-30)** to **$1,187,500 (2025-05-09)**, an increase of **$192,074** over about 3 years and 7 months.
-  * **Aptno 26 (THERESA LI, ANTHEA):** Showed an increase from **$1,674,875 (2021-05-17)** to **$1,770,000 (2024-09-25)**, resulting in **$95,125** appreciation over approximately 3 years and 4 months.
-  * **Aptno 47 (CHEN, ALLIE):** Gained **$30,729**, moving from **$1,764,271 (2021-10-07)** to **$1,795,000 (2024-05-06)** over roughly 2 years and 7 months.
-  * **Aptno 28 (CHING, ORENDA ZHAN):** Saw a modest appreciation of **$18,905**, from **$1,156,095 (2021-10-07)** to **$1,175,000 (2024-08-30)** over nearly 3 years.
+  * **Aptno 5410 (TANG, KEXIN):** Increased from **$1,645,135 (2023-01-04)** to **$1,817,300 (2024-10-23)**, gaining **$172,165** in approximately 1 year and 9 months.
+  * **Aptno 3609 (LEE, CHEONG WAI):** Appreciated from **$995,426 (2021-09-30)** to **$1,187,500 (2025-05-09)**, an increase of **$192,074** over about 3 years and 7 months.
+  * **Aptno 4002 (THERESA LI, ANTHEA):** Showed an increase from **$1,674,875 (2021-05-17)** to **$1,770,000 (2024-09-25)**, resulting in **$95,125** appreciation over approximately 3 years and 4 months.
+  * **Aptno 4301 (CHEN, ALLIE):** Gained **$30,729**, moving from **$1,764,271 (2021-10-07)** to **$1,795,000 (2024-05-06)** over roughly 2 years and 7 months.
+  * **Aptno 2612 (CHING, ORENDA ZHAN):** Saw a modest appreciation of **$18,905**, from **$1,156,095 (2021-10-07)** to **$1,175,000 (2024-08-30)** over nearly 3 years.
 
 **Units Exhibiting Depreciation or Minimal Change:**
 
   * **Aptno 805 (HC805 INC.):** Experienced a depreciation of **-$38,970**, selling for **$1,180,000 (2024-07-30)** after an earlier sale at **$1,218,970 (2021-06-02)**, over approximately 3 years and 2 months.
-  * **Aptno 188 (ZHANG, FUYIN):** Showed a substantial decrease of **-$795,630**, from **$2,317,588 (2021-09-17)** to **$1,521,958 (2022-10-18)**, over approximately 1 year and 1 month. This significant drop might warrant further investigation into the nature of the initial transaction (e.g., if it was a bulk transfer or non-arm's length sale) or specific market conditions at the time.
-  * **Aptno 160 (ZANG, MENG):** Saw a depreciation of **-$125,285**, going from **$1,735,285 (2021-09-15)** to **$1,610,000 (2023-04-17)** over approximately 1 year and 7 months.
+  * **Aptno 4311 (ZHANG, FUYIN):** Showed a substantial decrease of **-$795,630**, from **$2,317,588 (2021-09-17)** to **$1,521,958 (2022-10-18)**, over approximately 1 year and 1 month. This significant drop might warrant further investigation into the nature of the initial transaction (e.g., if it was a bulk transfer or non-arm's length sale) or specific market conditions at the time.
+  * **Aptno 4412 (ZANG, MENG):** Saw a depreciation of **-$125,285**, going from **$1,735,285 (2021-09-15)** to **$1,610,000 (2023-04-17)** over approximately 1 year and 7 months.
 
 In summary, out of the detailed examples provided in the resale analysis, **seven units demonstrated appreciation**, while **three units showed depreciation**. This pattern suggests that while the Skyline Tower market generally favors appreciation, individual unit performance can be diverse and is influenced by various factors including market timing, holding period, and potentially the nature of the specific transactions.
 
