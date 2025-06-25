@@ -117,7 +117,7 @@ To run this analysis, you'll need Python and a few common libraries.
 .
 ├── 23-15.csv               # Comprehensive sales data for Skyline Tower (from Part 1)
 ├── 23-15sub.csv            # Subset of data used for resale analysis (focused on potential resales)
-├── skyline_tower_resale_analysis.ipynb # Jupyter Notebook for Part 2 analysis
+├── lic_ast_condo_sales_analysis2.ipynb # Jupyter Notebook for Part 2 analysis
 └── README.md               # This README file
 ```
 
