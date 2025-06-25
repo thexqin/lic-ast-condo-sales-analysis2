@@ -60,8 +60,8 @@ To run this analysis, you'll need Python and a few common libraries.
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/thexqin/lic_ast_condo_sales_analysis2.git
-    cd lic_ast_condo_sales_analysis2
+    git clone https://github.com/thexqin/lic-ast-condo-sales-analysis2.git
+    cd lic-ast-condo-sales-analysis2
     ```
 2.  Ensure you have the required CSV data file (`23-15.csv` and `23-15sub.csv`) in the root directory. These files are typically generated or refined from the data acquisition process in `lic_ast_condo_sales_analysis` (Part 1).
 3.  Install the necessary Python libraries:
