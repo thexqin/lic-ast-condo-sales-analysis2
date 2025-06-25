@@ -58,7 +58,7 @@ A closer examination of the 16 identified resale transactions reveals that **pri
   * Out of 16 resale transactions, **12 units (75%) demonstrated appreciation** (where `change% > 1`).
   * Only **4 units (25%) exhibited depreciation** (where `change% < 1`).
 
-**Detailed Examples:**
+### Detailed Examples:
 
 **Units Demonstrating Notable Appreciation:**
 
