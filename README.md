@@ -62,7 +62,7 @@ A closer examination of the individual resale transactions reveals that **price 
   * **Aptno 4311 (ZHANG, FUYIN):** Showed a substantial decrease of **-$795,630**, from **$2,317,588 (2021-09-17)** to **$1,521,958 (2022-10-18)**, over approximately 1 year and 1 month. This significant drop might warrant further investigation into the nature of the initial transaction (e.g., if it was a bulk transfer or non-arm's length sale) or specific market conditions at the time.
   * **Aptno 4412 (ZANG, MENG):** Saw a depreciation of **-$125,285**, going from **$1,735,285 (2021-09-15)** to **$1,610,000 (2023-04-17)** over approximately 1 year and 7 months.
 
-In summary, out of the detailed examples provided in the resale analysis, **seven units demonstrated appreciation**, while **three units showed depreciation**. This pattern suggests that while the Skyline Tower market generally favors appreciation, individual unit performance can be diverse and is influenced by various factors including market timing, holding period, and potentially the nature of the specific transactions.
+In summary this pattern suggests that while the Skyline Tower market generally favors appreciation, individual unit performance can be diverse and is influenced by various factors including market timing, holding period, and potentially the nature of the specific transactions.
 
 ## 🚀 Getting Started
 
