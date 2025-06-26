@@ -84,17 +84,17 @@ Below are visualizations illustrating the resale dynamics within Skyline Tower, 
 ### Apartment Resale Percentage Gain
 
 This bar chart shows the percentage change in sale price for each resold apartment, ordered by their gain/loss.
-![bar](bar1.png)
+![bar](chart/bar1.png)
 
 ### Apartment Resale Dollar Gain
 
 This bar chart displays the absolute dollar value change for each resold apartment.
-![bar](bar2.png)
+![bar](chart/bar2.png)
 
 ### Apartment Resale After \# of Months (Holding Period)
 
 This chart illustrates the holding period in months for each resold apartment, from one sale date to the next.
-![bar](bar3.png)
+![bar](chart/bar3.png)
 
 ## 🚀 Getting Started
 
