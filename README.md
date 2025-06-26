@@ -30,6 +30,7 @@ This project builds upon the foundational data loaded in Part 1, `23-15.csv`, wh
       * The owners associated with each transaction year, providing a historical ownership trace.
       * Price changes and ownership changes over time, offering insights into individual unit performance.
   * **Quantitative Resale Metrics**: Calculates `changeM` (holding period in months), `change$` (dollar value change), and `change%` (percentage change) for each resale to provide clear quantitative insights into unit performance.
+  * **Visualizations**: Provides bar charts to visually represent apartment resale percentage gains, dollar gains, and holding periods, offering quick and intuitive insights into market trends.
 
 ## 📊 Expanded Key Findings: Resale Dynamics in Skyline Tower
 
@@ -76,6 +77,25 @@ A closer examination of the 16 identified resale transactions reveals that **pri
 
 In conclusion, the Skyline Tower resale market, based on this dataset, demonstrates a clear trend of **appreciation for the majority of units**. While individual cases of depreciation exist, some are minimal, and the most significant depreciation could be an outlier requiring further context. The positive average percentage change and the higher number of appreciating units suggest a healthy secondary market for condominiums in this building.
 
+## 📸 Charts
+
+Below are visualizations illustrating the resale dynamics within Skyline Tower, extracted directly from the Jupyter Notebook analysis.
+
+### Apartment Resale Percentage Gain
+
+This bar chart shows the percentage change in sale price for each resold apartment, ordered by their gain/loss.
+![bar](bar1.png)
+
+### Apartment Resale Dollar Gain
+
+This bar chart displays the absolute dollar value change for each resold apartment.
+![bar](bar2.png)
+
+### Apartment Resale After \# of Months (Holding Period)
+
+This chart illustrates the holding period in months for each resold apartment, from one sale date to the next.
+![bar](bar3.png)
+
 ## 🚀 Getting Started
 
 To run this analysis, you'll need Python and a few common libraries.
@@ -115,9 +135,13 @@ To run this analysis, you'll need Python and a few common libraries.
 
 ```
 .
-├── 23-15.csv               # Comprehensive sales data for Skyline Tower (from Part 1)
-├── 23-15sub.csv            # Subset of data used for resale analysis (focused on potential resales)
+├── 23-15.csv                           # Comprehensive sales data for Skyline Tower (from Part 1)
+├── 23-15sub.csv                        # Subset of data used for resale analysis (focused on potential resales)
 ├── lic_ast_condo_sales_analysis2.ipynb # Jupyter Notebook for Part 2 analysis
+├── chart/                        # Directory for screenshots of key visualizations
+│   ├── bar1.png
+│   ├── bar2.png
+│   └── bar3.png
 └── README.md               # This README file
 ```
 
